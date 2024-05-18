@@ -93,7 +93,7 @@ This is a variable-unit course. The requirements for each number of units are li
 </script>
 
 ## Meet the Speakers
-<iframe id="speakers" src="./s22_speakers" width="100%" height="1800" frameborder=0> </iframe>
+<iframe aria-label="Meet the Speakers" id="speakers" src="./s22_speakers" width="100%" height="1800" frameborder=0> </iframe>
 
 <script>
   function setIframeHeight(iframe) {
