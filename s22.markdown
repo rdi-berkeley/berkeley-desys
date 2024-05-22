@@ -36,7 +36,8 @@ redirect_from:
 
 ## Logistics
 Lecture: 10 am to noon PT Thursday in Soda 310 and on Zoom (see link below).
-[Zoom link](https://berkeley.zoom.us/j/98158813317) [ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/98158813317) for the class (password: 477371)
+<a href="https://berkeley.zoom.us/j/98158813317" style="text-decoration: none; color: hsl(232, 50%, 25%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Zoom link</a>
+[ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/98158813317) for the class (password: 477371)
 
 To get future announcements about the course and guest lectures, please join <a href="https://groups.google.com/g/berkeley-rdi">the mailing list</a>.
 
