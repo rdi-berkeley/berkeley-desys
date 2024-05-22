@@ -12,10 +12,6 @@ permalink: /s22_syllabus
   </thead>
   <tbody>
     {% for row in site.data.syllabus %}
-    <tr>
-      <th id="par" colspan="3" scope="colgroup"> {{ row.module }} </th>
-    </tr>
-      {% for lec in row.lectures %}
         <tr> 
           <td> {{ lec.date }} </td>
           <td> {{ lec.topic.title }}
