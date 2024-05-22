@@ -1,5 +1,5 @@
-- module: CS294/194-196: Special Topics on Science and Technology of Decentralization and Decentralized Intelligence
-  lecture:
+- module: Special Topics on Science and Technology of Decentralization and Decentralized Intelligence
+  lectures:
     - date: 01/18
       topic:
         title: Introduction and Foundations of Consensus
