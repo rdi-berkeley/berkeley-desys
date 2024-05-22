@@ -3,7 +3,6 @@ layout: blank
 title: "Decentralized Systems"
 permalink: /s22_syllabus
 ---
-
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
       <th style="width: 10%;">Date</th>
@@ -12,6 +11,7 @@ permalink: /s22_syllabus
   </thead>
   <tbody>
     {% for row in site.data.syllabus %}
+      {% for lec in row.lectures %}
         <tr> 
           <td> {{ lec.date }} </td>
           <td> {{ lec.topic.title }}
@@ -51,4 +51,3 @@ permalink: /s22_syllabus
     {% endfor %}
   </tbody>
 </table>
-
