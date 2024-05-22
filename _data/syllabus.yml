@@ -24,13 +24,13 @@ lectures:
         file: basil.pdf 
   - date: 02/03
     topic:
-      title: "Off-chain scalability: Channel networks and rollups"
+      title: Off-chain scalability: Channel networks and rollups
       speaker: Patrick McCorry (Infura)
       slides:
-        - name: "Off-chain scalability: Channel networks and rollups."
+        - name: Off-chain scalability: Channel networks and rollups.
           link: https://docs.google.com/presentation/d/1LxWL-yP3nIxk7RSRaIvcHWnTNedzKNwROt4HH-GecxE/edit?usp=sharing
     reading:
-      - name: "Layer 2 Blockchain Protocols"
+      - name: Layer 2 Blockchain Protocols
         link: https://eprint.iacr.org/2019/360.pdf
       - name: Validating Bridges as a Scaling Solution for Blockchains
         link: https://eprint.iacr.org/2021/1589.pdf
@@ -42,7 +42,7 @@ lectures:
         - name: Zero-knowledge Proof and Its Applications in Privacy-preserving Cryptocurrencies
           file: yupeng-zhang-zktutorial-lec4.pptx
     reading:
-      - name: "Zero Knowledge Proofs: An illustrated primer"
+      - name: Zero Knowledge Proofs: An illustrated primer
         link: https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/
       - name: Zcash and zk-SNARKs
         link: https://z.cash/technology/zksnarks/
@@ -63,7 +63,7 @@ lectures:
         - name: A formal verifier for the Diem blockchain MOVE language
           file: DavidDill_FormalVerf_Blockchain.pptx
     reading:
-      - name: "MOVE whitepaper (focus on sec. 3 and 4)"
+      - name: MOVE whitepaper (focus on sec. 3 and 4)
         link: https://diem-developers-components.netlify.app/papers/diem-move-a-language-with-programmable-resources/2020-05-26.pdf
   - date: 03/03
     topic:
@@ -73,9 +73,9 @@ lectures:
         - name: Course Project Information
           link: https://docs.google.com/presentation/d/1ZvM3z3k6qG_VLyrlKixvtgvhiAotmADaYsWEdfvT_Gc/edit?usp=sharing
     reading:
-      - name: InterPlanetary File System (IPFS) 
+      - name: InterPlanetary File System (IPFS)
         link: https://arxiv.org/pdf/1407.3561.pdf  
-      - name: FileCoin (focus on theory concepts) 
+      - name: FileCoin (focus on theory concepts)
         link: https://filecoin.io/filecoin.pdf 
       - name: Proof of replication
         link: https://research.filecoin.io/assets/proof-of-replication.pdf
@@ -109,11 +109,11 @@ lectures:
         link: https://arxiv.org/abs/2203.04090
       - name: Multiagent Transition Systems with Faults
         link: https://arxiv.org/abs/2112.13650
-      - name: "Money and Payments: The U.S. Dollar in the Age of Digital Transformation" 
+      - name: Money and Payments: The U.S. Dollar in the Age of Digital Transformation
         link: https://www.federalreserve.gov/publications/files/money-and-payments-20220120.pdf
-      - name: "CBDC Navigator - 219 reports on Central Bank Digital Currency (2021)"
+      - name: CBDC Navigator - 219 reports on Central Bank Digital Currency (2021)
         link: https://mindsmith.io/en/cbdc-navigator/
-      - name: "Satori: Toward a Global Augmented Intelligence Architecture"
+      - name: Satori: Toward a Global Augmented Intelligence Architecture
         link: https://www.researchgate.net/publication/332134711_Satori_Toward_a_Global_Augmented_Intelligence_Architecture
   - date: 04/07
     topic:
@@ -124,7 +124,7 @@ lectures:
       title: Decentralized governance, DAO
       speaker: Jon Allen
       slides:
-        - name: "DAO 101"
+        - name: DAO 101
           file: dao101.pdf
   - date: 04/21
     topic:
@@ -138,4 +138,4 @@ lectures:
       - name: Ethics in Tech Practice
         file: Ethics-Toolkit.pdf
       - name: web3 blog post
-        link: https://moxie.org/2022/01/07/web3-first-impressions.html 
+        link: https://moxie.org/2022/01/07/web3-first-impressions.html
