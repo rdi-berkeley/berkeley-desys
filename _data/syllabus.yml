@@ -34,7 +34,11 @@ lectures:
         link: https://eprint.iacr.org/2019/360.pdf
       - name: Validating Bridges as a Scaling Solution for Blockchains
         link: https://eprint.iacr.org/2021/1589.pdf
-	@@ -42,7 +42,7 @@ lectures:
+  - date: 02/10
+    topic:
+      title: ZK tutorial
+      speaker: Yupeng Zhang (Texas A&M University)
+      slides:
         - name: Zero-knowledge Proof and Its Applications in Privacy-preserving Cryptocurrencies
           file: yupeng-zhang-zktutorial-lec4.pptx
     reading:
@@ -42,7 +46,20 @@ lectures:
         link: https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/
       - name: Zcash and zk-SNARKs
         link: https://z.cash/technology/zksnarks/
-	@@ -63,7 +63,7 @@ lectures:
+      - name: Time-Optimal Interactive Proofs for Circuit Evaluation
+        link: https://link.springer.com/content/pdf/10.1007%2F978-3-642-40084-1_5.pdf
+  - date: 02/17
+    topic:
+      title: ZK rollup
+      speaker: Eli Ben-Sasson
+      slides: 
+        - name: ZK-Stark Theory and Implementation
+          file: lec5_eli_ben_sasson_zk_stark.pdf
+  - date: 02/24
+    topic:
+      title: MOVE and Formal verification in smart contracts
+      speaker: David Dill
+      slides:
         - name: A formal verifier for the Diem blockchain MOVE language
           file: DavidDill_FormalVerf_Blockchain.pptx
     reading:
@@ -50,7 +67,9 @@ lectures:
         link: https://diem-developers-components.netlify.app/papers/diem-move-a-language-with-programmable-resources/2020-05-26.pdf
   - date: 03/03
     topic:
-	@@ -73,9 +73,9 @@ lectures:
+      title: Decentralized Storage
+      speaker: Juan Benet (Protocol Labs)
+      slides:
         - name: Course Project Information
           link: https://docs.google.com/presentation/d/1ZvM3z3k6qG_VLyrlKixvtgvhiAotmADaYsWEdfvT_Gc/edit?usp=sharing
     reading:
@@ -60,7 +79,33 @@ lectures:
         link: https://filecoin.io/filecoin.pdf 
       - name: Proof of replication
         link: https://research.filecoin.io/assets/proof-of-replication.pdf
-	@@ -109,11 +109,11 @@ lectures:
+  - date: 03/10
+    topic:
+      title: Privacy and Decentralized Identity
+      speaker: Craig Gentry and Tal Rabin (Algorand)
+      slides:
+        - name: Proof of Work vs. Proof of Stake
+          file: pow_pos_slides.pdf
+        - name: Can a Blockchain Keep a Secret?
+          file: Craig_Gentry_Can-a-Blockchain-Keep-a-Secret.pptx
+    reading:
+      - name: Can a Blockchain Keep a Secret?
+        link: https://eprint.iacr.org/2020/464
+  - date: 03/17
+    topic:
+      title: Cryptoeconomics and mechanisms design for decentralized systems
+      speaker: Arthur Breitman (Tezos)
+  - date: 03/24
+    topic:
+      title: No Class (Spring Break)  
+  - date: 03/31
+    topic:
+      title: CBDC & DeFi Panel
+      speaker: Michael Warner (Federal Reserve), Neha Narula (MIT Media Lab), Robert Hockett (Cornell Law), and Ehud Shapiro (Weizmann Institute)
+    reading:
+      - name: Self-Sovereign Personal Cryptocurrencies
+        link: https://arxiv.org/abs/2202.05619
+      - name: Foundations for Grassroots Democratic Metaverse
         link: https://arxiv.org/abs/2203.04090
       - name: Multiagent Transition Systems with Faults
         link: https://arxiv.org/abs/2112.13650
@@ -72,7 +117,10 @@ lectures:
         link: https://www.researchgate.net/publication/332134711_Satori_Toward_a_Global_Augmented_Intelligence_Architecture
   - date: 04/07
     topic:
-	@@ -124,7 +124,7 @@ lectures:
+      title: NFT, GameFi, Metaverse
+      speaker: David Min (Disney)
+  - date: 04/14
+    topic:
       title: Decentralized governance, DAO
       speaker: Jon Allen
       slides:
@@ -80,7 +128,13 @@ lectures:
           file: dao101.pdf
   - date: 04/21
     topic:
-	@@ -138,4 +138,4 @@ lectures:
+      title: Decentralized Knowledge graphs
+      speaker: Denny Vrandecic
+  - date: 04/28
+    topic:
+      title: Responsible innovation and regulation in decentralized systems
+      speaker: Alex Feerst
+    reading: 
       - name: Ethics in Tech Practice
         file: Ethics-Toolkit.pdf
       - name: web3 blog post
