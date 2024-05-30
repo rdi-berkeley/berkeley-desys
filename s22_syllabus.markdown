@@ -44,7 +44,7 @@ permalink: /s22_syllabus
                   {% if r.link %}
                     {% assign reading_link = r.link %}
                   {% endif %}
-                  <li><a target="_parent" href="{{ reading_link }}" style="font-size: 24px;">{{ r.name }}</a></li>
+                  <li><a target="_parent" href="{{ reading_link }}" style="font-size: 100%;">{{ r.name }}</a></li>
                 {% endfor %}
               </ul>
             {% endif %}
