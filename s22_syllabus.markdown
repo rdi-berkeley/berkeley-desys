@@ -26,9 +26,9 @@ permalink: /s22_syllabus
               <ul style="margin-bottom: 0;">
                 {% for s in lec.topic.slides %}
                   {% if s.file %}
-                    <li><a target="_parent" href="./assets/material/{{ s.file }}" style="font-size: 100%;">Slides: {{ s.name }}</a></li>
+                    <li><a target="_parent" href="./assets/material/{{ s.file }}" style="font-size: 24px;">Slides: {{ s.name }}</a></li>
                   {% else %}
-                    <li><a target="_parent" href="{{ s.link }}" style="font-size: 80%;">Slides: {{ s.name }}</a></li>
+                    <li><a target="_parent" href="{{ s.link }}" style="font-size: 24px;">Slides: {{ s.name }}</a></li>
                   {% endif %}
                 {% endfor %}
               </ul>
@@ -44,7 +44,7 @@ permalink: /s22_syllabus
                   {% if r.link %}
                     {% assign reading_link = r.link %}
                   {% endif %}
-                  <li><a target="_parent" href="{{ reading_link }}" style="font-size: 100%;">{{ r.name }}</a></li>
+                  <li><a target="_parent" href="{{ reading_link }}" style="font-size: 24px;">{{ r.name }}</a></li>
                 {% endfor %}
               </ul>
             {% endif %}
