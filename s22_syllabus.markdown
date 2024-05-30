@@ -26,7 +26,7 @@ permalink: /s22_syllabus
               <ul style="margin-bottom: 0;">
                 {% for s in lec.topic.slides %}
                   {% if s.file %}
-                    <li><a target="_parent" href="./assets/material/{{ s.file }}" style="font-size: 80%;">Slides: {{ s.name }}</a></li>
+                    <li><a target="_parent" href="./assets/material/{{ s.file }}" style="font-size: 100%;">Slides: {{ s.name }}</a></li>
                   {% else %}
                     <li><a target="_parent" href="{{ s.link }}" style="font-size: 80%;">Slides: {{ s.name }}</a></li>
                   {% endif %}
