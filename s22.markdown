@@ -181,9 +181,9 @@ The course will consist of invited talks by a range of experts and related discu
 
 <ul>
   <li>Foundations for next generation decentralization technologies: scalability, usability, provable guarantees, auditable privacy, etc.</li>
-  <li>Cryptoeconomics and mechanisms design for decentralized systems </li> 
-  <li>Decentralized Finance and Central Bank Digital Currency (CBDC) </li> 
-  <li>Decentralized governance, organization </li> 
+  <li>Cryptoeconomics and mechanisms design for decentralized systems</li> 
+  <li>Decentralized Finance and Central Bank Digital Currency (CBDC)</li> 
+  <li>Decentralized governance, organization</li> 
   <li>Decentralized intelligence, Decentralized Data Science, Data DAO for public good</li>
   <li>Responsible innovation and regulation in decentralized systems</li>
 </ul>
